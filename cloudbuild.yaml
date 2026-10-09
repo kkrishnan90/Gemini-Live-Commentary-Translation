@@ -1,0 +1,19 @@
+# gcloud builds submit --config cloudbuild.yaml --substitutions _TAG=v1
+substitutions:
+  _REGION: us-central1
+  _REPO: commentary-box
+  _TAG: latest
+steps:
+  - id: api
+    name: gcr.io/cloud-builders/docker
+    args: ["build", "-f", "backend/Dockerfile", "-t", "${_REGION}-docker.pkg.dev/${PROJECT_ID}/${_REPO}/api:${_TAG}", "."]
+  - id: web
+    name: gcr.io/cloud-builders/docker
+    args: ["build", "-t", "${_REGION}-docker.pkg.dev/${PROJECT_ID}/${_REPO}/web:${_TAG}", "frontend"]
+    waitFor: ["-"]
+images:
+  - ${_REGION}-docker.pkg.dev/${PROJECT_ID}/${_REPO}/api:${_TAG}
+  - ${_REGION}-docker.pkg.dev/${PROJECT_ID}/${_REPO}/web:${_TAG}
+options:
+  machineType: E2_HIGHCPU_8
+timeout: 1800s

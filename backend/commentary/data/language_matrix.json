@@ -1,0 +1,514 @@
+{
+ "mr-IN": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 18.0,
+  "src_s": 17.2,
+  "script_share": 1.0,
+  "text": "म्हणजे त्यांच्याकडे फक्त डावाचा ग्लोव्ह आहे.चला, शेवटचा चेंडू. ऑफ साईडला खेळलाय, धावतायत... रन आऊट होऊ शकतो! रन आऊट झालाय का?थर्ड अंपायरकडे जात आहोत. जॉनीकडून छान काम. त्याला खात्री आहे की बाद केला आहे.त्यानं थ्रो तर केलाच नाही, पण त्याला वाटलं त्याच्याकडे वेग आहे.",
+  "judge": {
+   "spoken_language": "Marathi",
+   "is_target_language": true,
+   "fluency": 9,
+   "excitement": 8,
+   "accent_native": 9,
+   "note": "Live sports commentary in Marathi with natural fluency and appropriate excitement levels."
+  }
+ },
+ "hi-IN": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 20.3,
+  "src_s": 17.2,
+  "script_share": 1.0,
+  "text": "आ गए हैं, आखिरी गेंद। ऑफ साइड की तरफ, भागे हैं रन के लिए। रन आउट हो सकते हैं। क्या रन आउट हो गए हैं?थर्ड अंपायर के पास जा रहे हैं। जॉनी की तरफ से बढ़िया काम। उन्हें लगता है आउट है!उन्होंने थ्रो किया ही नहीं लेकिन उन्हें लगा कि उन्होंने बेल्स उड़ा दिए हैं। ठीक है, रॉब।",
+  "judge": {
+   "spoken_language": "Hindi",
+   "is_target_language": true,
+   "fluency": 9,
+   "excitement": 7,
+   "accent_native": 9,
+   "note": "Professional Hindi commentary or dubbed match scene with clear articulation and good energy."
+  }
+ },
+ "gu-IN": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 18.2,
+  "src_s": 17.2,
+  "script_share": 1.0,
+  "text": "તો, તેણે ફક્ત ડાબું ગ્લોવ પહેર્યું છે.છેલ્લો બોલ આવી રહ્યો છે, ઓફ સાઇડમાં રમીને દોડ્યા છે. રન આઉટ થઈ શકે છે! શું રન આઉટ છે?આઉટ છે કે નોટ આઉટ?ત્રીજા અમ્પાયર પાસે જઈ રહ્યા છે! જોની દ્વારા સરસ કામ! એમને લાગે છે કે એમણે વિકેટ લીધી છે.ઑકે રોબ.",
+  "judge": {
+   "spoken_language": "Gujarati",
+   "is_target_language": true,
+   "fluency": 9,
+   "excitement": 7,
+   "accent_native": 9,
+   "note": "Fluent Gujarati cricket commentary with clear native pronunciation, ending with a brief English phrase."
+  }
+ },
+ "bn-IN": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 24.5,
+  "src_s": 17.2,
+  "script_share": 1.0,
+  "text": " তাই তার কাছে শুধু বাঁ হাতের গ্লাভসটাই আছে।চলুন, শেষ বল! অফ সাইড দিয়ে শট, রান নেওয়ার চেষ্টা। রান আউট হতে পারে! রান আউট কি হলো?আউট নাকি নট আউট?থার্ড আম্পায়ারের শরণাপন্ন, জনি দারুণ কাজ করেছে, তার মনে হয় উইকেটটা পেয়েছে!সে কিন্তু থ্রোটা করেনি, কিন্তু ভেবেছিল আউট করেছে! ঠিক আছে রব।",
+  "judge": {
+   "spoken_language": "Bengali",
+   "is_target_language": true,
+   "fluency": 9,
+   "excitement": 7,
+   "accent_native": 9,
+   "note": "Clear and natural Bengali commentary with good energy during the ball delivery."
+  }
+ },
+ "ta-IN": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 24.9,
+  "src_s": 17.2,
+  "script_share": 1.0,
+  "text": "அவர்கிட்ட இடது கை கிளவுஸ் மட்டும் தான் இருக்கு.கடைசி பந்து, ஆப் சைட்ல போயிருக்கு, ஓடிட்டு இருக்காங்க, ரன் அவுட்டுக்கு வாய்ப்பிருக்கா, ரன் அவுட்டா?மேல போறோம். ஜானியோட நல்ல வேலை, அவுட்னு நினைக்கிறாரு!அவர் பந்தை வீசவே இல்ல, ஆனா வேகம் இருக்குன்னு நினைச்சாரு. சரி ஓடு!",
+  "judge": {
+   "spoken_language": "Tamil",
+   "is_target_language": true,
+   "fluency": 9,
+   "excitement": 7,
+   "accent_native": 9,
+   "note": "Natural and clear Tamil cricket commentary with good excitement and fluent native delivery."
+  }
+ },
+ "pa-IN": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 18.3,
+  "src_s": 17.2,
+  "script_share": 1.0,
+  "text": "ਉਹਦੇ ਕੋਲ ਸਿਰਫ਼ ਖੱਬਾ ਦਸਤਾਨਾ ਹੈ।ਲਓ ਜੀ ਆਖਰੀ ਗੇਂਦ। ਆਫ ਸਾਈਡ ਵੱਲ ਖੇਡਿਆ, ਦੌੜ ਪਏ ਨੇ। ਰਨ ਆਊਟ ਹੋ ਸਕਦਾ ਹੈ। ਕੀ ਇਹ ਰਨ ਆਊਟ ਹੈ?ਆਊਟ? ਜਾਂ ਇਨ ਹੈ?ਹੁਣ ਉੱਪਰ ਚੈੱਕ ਕੀਤਾ ਜਾਵੇਗਾ! ਜੌਨੀ ਵੱਲੋਂ ਵਧੀਆ ਕੰਮ, ਉਹਨੂੰ ਲੱਗਦਾ ਹੈ ਉਹਨੇ ਆਊਟ ਕਰ ਲਿਆ ਹੈ!ਉਸਨੇ ਗੇਂਦ ਸੁੱਟੀ ਹੀ ਨਹੀਂ, ਪਰ ਉਸਨੂੰ ਲੱਗਿਆ ਉਹਦੇ ਕੋਲ ਰਫ਼ਤਾਰ ਹੈ।",
+  "judge": {
+   "spoken_language": "Punjabi",
+   "is_target_language": true,
+   "fluency": 9,
+   "excitement": 7,
+   "accent_native": 9,
+   "note": "Natural and clear Punjabi sports commentary delivered with appropriate energy and native fluency."
+  }
+ },
+ "te-IN": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 18.9,
+  "src_s": 17.2,
+  "script_share": 1.0,
+  "text": "అంటే అతను కేవలం ఎడమ గ్లోవ్ మాత్రమే వేసుకున్నాడు.ఇదిగోండి, చివరి బంతి. ఆఫ్ సైడ్ దిశగా వెళ్ళింది, పరుగెడుతున్నారు, రన్ అవుట్ అయ్యే అవకాశం ఉంది, రన్ అవుట్ అయ్యాడా?అవుటా? లేక సేఫ్ అయ్యాడా?థర్డ్ అంపైర్ దగ్గరికి వెళ్తున్నాం. జానీ చాలా బాగా చేశాడు. అవుట్ అని అనుకుంటున్నాడు.అవుట్!",
+  "judge": {
+   "spoken_language": "Telugu",
+   "is_target_language": true,
+   "fluency": 9,
+   "excitement": 7,
+   "accent_native": 10,
+   "note": "Native Telugu sports commentary, clear and fluent with good dramatic energy."
+  }
+ },
+ "kn-IN": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 22.1,
+  "src_s": 17.2,
+  "script_share": 1.0,
+  "text": "ಅವನಿಗೆ ಬರೀ ಎಡಗೈ ಗ್ಲೌಸ್ ಸಿಕ್ಕಿದೆ.ಕೊನೆಗೊಂದು ಬಾಲ್, ಸಜ್ಜಾಗಿದ್ದಾರೆ, ಆಫ್ ಸೈಡ್ ನಲ್ಲಿ ಹೊಡೆದಿದ್ದಾರೆ, ಓಡ್ತಿದ್ದಾರೆ, ರನ್ ಔಟ್ ಆಗಬಹುದು, ರನ್ ಔಟ್ ಆಗ್ತಾರಾ?ಹೊರಗಡೆ ಹೋಗಿದ್ದಾರಾ? ಅಥವಾ ಒಳಗೆ ಇದ್ದಾರಾ?ಥರ್ಡ್ ಅಂಪೈರ್ ಮೊರೆ ಹೋಗ್ತಾ ಇದ್ದಾರೆ. ಜಾನಿ ಕಡೆಯಿಂದ ಒಳ್ಳೆ ಕೆಲಸ. ಅವರಿಗೆ ಇದು ವಿಕೆಟ್ ಅಂತ ಅನಿಸ್ತಾ ಇದೆ.ಅವನು ಚೆಂಡನ್ನೇ ಎಸೆೆಯಲಿಲ್ಲ, ಆದರೆ ವ",
+  "judge": {
+   "spoken_language": "Kannada",
+   "is_target_language": true,
+   "fluency": 9,
+   "excitement": 6,
+   "accent_native": 9,
+   "note": "Clear, native Kannada cricket commentary with natural phrasing and moderate engagement."
+  }
+ },
+ "ml-IN": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 19.8,
+  "src_s": 17.2,
+  "script_share": 1.0,
+  "text": "അപ്പൊ അദ്ദേഹത്തിന് ഇടത്തെ ഗ്ലൗസ് മാത്രമേ കിട്ടിയിട്ടുള്ളൂ.അതാ അവസാനത്തെ പന്ത്. ഓഫ് സൈഡിലേക്ക്, ഓടുന്നു, റൺ ഔട്ട് ആകാൻ സാധ്യതയുണ്ട്. ഔട്ടാണോ?ഔട്ടാണോ? അതോ ക്രീസിലുണ്ടോ?അമ്പയറിലേക്ക് പോകുന്നു. ജോണിയുടെ മികച്ച പ്രകടനം. അവൻ പുറത്തായെന്ന് ജോണി ഉറച്ചു വിശ്വസിക്കുന്നു!ശരി, റോബ്!",
+  "judge": {
+   "spoken_language": "Malayalam",
+   "is_target_language": true,
+   "fluency": 9,
+   "excitement": 7,
+   "accent_native": 9,
+   "note": "Fluent Malayalam commentary for a cricket match, though delivered in a slightly staged style."
+  }
+ },
+ "or-IN": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 21.7,
+  "src_s": 17.2,
+  "script_share": 1.0,
+  "text": "ତେବେ ଖାଲି ବାମ ଗ୍ଲଭ୍‌ଟା ପାଇଲେ।ଏହି ଦେଖନ୍ତୁ, ଶେଷ ବଲ। ଅଫ୍ ସାଇଡ୍ ଦେଇ, ଦୌଡ଼ିଲେ। ରନ୍ ଆଉଟ୍ ହୋଇପାରନ୍ତି। କ'ଣ ରନ୍ ଆଉଟ୍ ହେଲେ?ଆଉଟ୍? କି ଭିତରେ ଅଛନ୍ତି?ଏବେ ଥାର୍ଡ଼ ଅମ୍ପାୟାରଙ୍କ ପାଖକୁ ଯିବାକୁ ପଡ଼ିବ, ଜନିଙ୍କର ବଢ଼ିଆ କାମ, ସେ ଭାବୁଛନ୍ତି ସେ ତାଙ୍କୁ ଆଉଟ୍ କରିଦେଇଛନ୍ତି।ସେ ଜମା ବି ଥ୍ରୋ କରି ନଥିଲେ, କିନ୍ତୁ ସେ ଭାବିଲେ ଯେ ତାଙ୍କ ପାଖରେ ବଲ୍‌ ",
+  "judge": {
+   "spoken_language": "Odia",
+   "is_target_language": true,
+   "fluency": 9,
+   "excitement": 8,
+   "accent_native": 9,
+   "note": "The speaker provides energetic and fluent live cricket commentary in native Odia."
+  }
+ },
+ "as-IN": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 18.7,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": "এতিয়া আহিছে শেষ বল। অফ চাইডৰ মাজেৰে, দৌৰিছে। ৰাণ আউট হ'ব পাৰে। ৰাণ আউট হৈছে নেকি?আমি ওপৰলৈ গৈছোঁ। জনিৰ ফালৰ পৰা ভাল প্ৰচেষ্টা। তেওঁ আউট কৰিছে বুলি তেওঁ ভাবিছে।ঠিক আছে, ৰব।",
+  "judge": {
+   "spoken_language": "Assamese",
+   "is_target_language": true,
+   "fluency": 9,
+   "excitement": 7,
+   "accent_native": 10,
+   "note": "Natural native Assamese commentary depicting a dramatic cricket run-out moment."
+  }
+ },
+ "ur-IN": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 21.0,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": "तो अब उनके पास सिर्फ बायां दस्ताना है।یہ ہے آخری بال، آف سائیڈ پر کھیلی بھاگ رہے ہیں، رن آؤٹ ہو سکتے ہیں۔ کیا رن آؤٹ ہوگئے؟ یا پھر وہ اندر ہے؟Hum upar ja rahe hain, Johnny ka behtareen kaam, unhe lagta hai out kar diya hai.اس نے تھرو تو بالکل نہیں کیا، لیکن وہ سمجھے اس کے پاس رفتار تھی۔ ٹھیک ہے روب۔",
+  "judge": {
+   "spoken_language": "Urdu",
+   "is_target_language": true,
+   "fluency": 9,
+   "excitement": 7,
+   "accent_native": 9,
+   "note": "Fluent cricket commentary in Urdu/Hindi with decent excitement matching the game play."
+  }
+ },
+ "en-IN": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 15.8,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": "So he's only got the left glove.Here we go, the final ball! Flung through the off side, they're running! Could be a run out! Is he run out?Is he out, or is he in?We're going upstairs! Excellent work from Jonny, he's confident he's got him!Okay, Rob.",
+  "judge": {
+   "spoken_language": "English",
+   "is_target_language": false,
+   "fluency": 10,
+   "excitement": 8,
+   "accent_native": 1,
+   "note": "The commentators speak in British English accents rather than Indian English."
+  }
+ },
+ "en-GB": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 17.3,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": " So he's only got the left glove.Here we go, last ball. Through the off side, they're running. Could be a run out! Is he run out?! Or is he in?We're going upstairs. Great work from Jonny. He thinks he's got him.Okay, Rob.",
+  "judge": {
+   "spoken_language": "English (UK)",
+   "is_target_language": true,
+   "fluency": 10,
+   "excitement": 8,
+   "accent_native": 10,
+   "note": "Live cricket commentary delivered with authentic British accent and good energy."
+  }
+ },
+ "en-US": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 14.6,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": " He's only got the left glove on.Here we go, final ball. Through the off side! They're running! Might be a run-out! Is he out?Or is he in?We're going upstairs! Great effort from Johny, he thinks he's got him!All right, Rob.",
+  "judge": {
+   "spoken_language": "en-GB",
+   "is_target_language": false,
+   "fluency": 10,
+   "excitement": 8,
+   "accent_native": 10,
+   "note": "Native British English cricket commentary, not English (US)."
+  }
+ },
+ "es-ES": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 19.4,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": " Solo le queda el guante izquierdo.¡Aquí va, última bola! Por el sector derecho, están corriendo... ¡puede ser out! ¿Estará out?¿está fuera o está dentro?¡Revisamos arriba! ¡Gran trabajo de Johnny! ¡Cree que lo tiene!No la lanzó, pero él pensaba que tenía velocidad. Muy bien, Rob.",
+  "judge": {
+   "spoken_language": "Spanish",
+   "is_target_language": true,
+   "fluency": 9,
+   "excitement": 7,
+   "accent_native": 10,
+   "note": "Native Latin American Spanish voice acting of sports commentary, clear and energetic."
+  }
+ },
+ "es-US": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 17.9,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": "Así que solo tiene el guante izquierdo.¡Allá vamos, última bola! Va por el off side, salen a correr. ¡Podría ser run out! ¿Es run out? ¿o está adentro?¡Vamos a la revisión! Buen trabajo de Johnny. ¡Cree que lo tiene!Está bien, Rob.",
+  "judge": {
+   "spoken_language": "Spanish",
+   "is_target_language": true,
+   "fluency": 10,
+   "excitement": 8,
+   "accent_native": 10,
+   "note": "Native Latin American Spanish commentary dubbing for an animated sports scene."
+  }
+ },
+ "fr-FR": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 15.4,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": "Il n'a donc plus que le gant gauche.C'est parti, dernière balle. Dans l'off side, ils courent. Ça peut être un run out. Est-il run out ?Est-il dedans ?On va en haut ! Superbe travail de Johnny. Il pense l'avoir fini.D'accord, Rob.",
+  "judge": {
+   "spoken_language": "French",
+   "is_target_language": true,
+   "fluency": 9,
+   "excitement": 7,
+   "accent_native": 9,
+   "note": "Native French commentary/dubbing with excited delivery during a cricket run-out scene."
+  }
+ },
+ "de-DE": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 20.5,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": "Er hat also nur den linken Handschuh.Los geht's, der letzte Ball. Durch die Off-Seite, sie laufen! Es könnte ein Run-Out sein! Ist er raus?Ist er im Aus oder ist er drin?Es geht nach oben! Starke Aktion von Johnny! Er glaubt, er hat ihn!Er hat gar nicht geworfen, aber er dachte, er hätte die bails..",
+  "judge": {
+   "spoken_language": "German",
+   "is_target_language": true,
+   "fluency": 9,
+   "excitement": 8,
+   "accent_native": 9,
+   "note": "Excited German commentary on a cricket match run-out decision."
+  }
+ },
+ "it-IT": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 19.4,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": "Ha soltanto il guanto sinistro.Ci siamo, ultima palla! Verso l'off side, corrono. Rischia il run out! È eliminato? Fuori? O è dentro?Si va a rivedere l'azione! Gran lavoro di Johnny! Pensa di averlo messo al tappeto!Non l'ha tirato per niente, ma pensava d'avercelo in mano. Ok, Rob.",
+  "judge": {
+   "spoken_language": "Italian",
+   "is_target_language": true,
+   "fluency": 9,
+   "excitement": 7,
+   "accent_native": 10,
+   "note": "Multi-speaker Italian commentary discussing a cricket run-out review with good energy and native pronunciation."
+  }
+ },
+ "ar-XA": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 19.6,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": "لم يتبقَّ سوى القفاز الأيسر.تنطلق الكرة الأخيرة! عبر جهة الأوف سايد، الركض مستمر! قد تكون إقصاء، هل تم إخراجه؟هل خرجت أم بقيت في الملعب؟نحتكم للحكام! عمل رائع من جوني، يظن أنه حسمها!حسناً يا روب",
+  "judge": {
+   "spoken_language": "Modern Standard Arabic",
+   "is_target_language": true,
+   "fluency": 10,
+   "excitement": 7,
+   "accent_native": 10,
+   "note": "Fluent Modern Standard Arabic voice acting/commentary for a sports broadcast/dubbed show."
+  }
+ },
+ "ja-JP": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 15.6,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": "左のグローブだけですね。さあラストボール！オフサイドに抜けた走る、ランアウトか！間に合うか！？アウトか？インか？ビデオ判定だ！ジョニーの素晴らしい攻め！仕留めたか！ボールは投げていませんがウィケットは落としたと確信したようです",
+  "judge": {
+   "spoken_language": "Japanese",
+   "is_target_language": true,
+   "fluency": 10,
+   "excitement": 8,
+   "accent_native": 10,
+   "note": "Energetic and fluent Japanese sports commentary over a cricket play."
+  }
+ },
+ "ko-KR": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 20.6,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": " 왼쪽 글러브만 꼈군요!자, 마지막 공입니다. 오프사이드 쪽, 달립니다! 런아웃 될 수 있어요! 아웃입니까?아웃일까요, 세이프일까요?판정으로 갑니다! 자니 선수, 아주 좋은 움직임이었어요. 끝냈다고 생각합니다!공을 던지지도 않고 아웃 시킨 줄 알았군요. 심판 확인!",
+  "judge": {
+   "spoken_language": "Korean",
+   "is_target_language": true,
+   "fluency": 10,
+   "excitement": 9,
+   "accent_native": 10,
+   "note": "Excited and natural Korean sports commentary describing a close play at the base."
+  }
+ },
+ "pt-BR": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 19.3,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": "﻿Então, ele só tá com a luva esquerda.Vamos lá, última bola! Pelo off side, correram. Pode ser run out! Será que foi run out?Saiu ou tá dentro?!Vamos lá em cima! Grande trabalho de Johnny. Ele acha que conseguiu!Ele nem arremessou, achou que tinha a velocidade. Tá certo, Rob.",
+  "judge": {
+   "spoken_language": "Portuguese (Brazil)",
+   "is_target_language": true,
+   "fluency": 10,
+   "excitement": 7,
+   "accent_native": 10,
+   "note": "Natural Brazilian Portuguese commentary with clear pronunciation and cricket terminology."
+  }
+ },
+ "cmn-CN": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 24.5,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": "所以他只有左手有手套。决胜球来了，最后一球！打向外侧，开始跑垒！有机会跑杀！到底有没有被跑杀？！的出界了吗 还是进了？寻求上方裁决！强尼这一套非常漂亮，他觉得他已经拿下了！他根本没扔出去但他以为自己有速度。",
+  "judge": {
+   "spoken_language": "Mandarin Chinese",
+   "is_target_language": true,
+   "fluency": 10,
+   "excitement": 7,
+   "accent_native": 10,
+   "note": "Dramatic sports commentary/voiceover with clear pronunciation and natural delivery."
+  }
+ },
+ "th-TH": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 20.6,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": "เอาละครับ บอลสุดท้ายแล้ว ตีผ่านออฟไซด์ วิ่งกันแล้วครับ มีสิทธิ์รันเอาต์ ทันไหม รันเอาต์หรือเปล่า!ออกหรือว่าเข้ากันแน่ครับเนี่ย!ไป ดู บน เวที กัน ครับ จอห์นนี่ ทำ ได้ ดี มาก คิด ว่า น่า จะ เรียบร้อย แล้ว!เขาไม่ได้ขว้างเลยแต่คิดว่าได้แต้มแล้ว เอ้า ว่าไงครับร็อบ",
+  "judge": {
+   "spoken_language": "Thai",
+   "is_target_language": true,
+   "fluency": 10,
+   "excitement": 8,
+   "accent_native": 10,
+   "note": "Lively and natural Thai sports commentary with accurate tone and pronunciation."
+  }
+ },
+ "id-ID": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 23.6,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": "Tai dia hanya menggunakan sarung tangan kiri.Affirmative. Kita mulai, bola terakhir! Ke sisi luar, lari! Bisa kena run out! Apakah kena run out?Kita lihat ke atas! Usaha bagus dari Johnny! Dia merasa sudah menguncinya!Dia sama sekali tidak melemparnya tapi dia mengira dia punya kecepatan. Baik, Rob.",
+  "judge": {
+   "spoken_language": "Indonesian",
+   "is_target_language": true,
+   "fluency": 9,
+   "excitement": 6,
+   "accent_native": 9,
+   "note": "Dubbed animated sports commentary featuring multiple fluent Indonesian voice actors."
+  }
+ },
+ "tr-TR": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 15.9,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": "Yani sadece sol eldiveni var.İşte başlıyoruz, son top! Off side'dan geçti, koşuyorlar, run out olabilir, run out mı?Dışarıda mı, yoksa içeride mi?Yukarıya gidiyoruz, Johnny'den iyi bir iş. Maçı kazandığını düşünüyor!Tamam, Rob.",
+  "judge": {
+   "spoken_language": "Turkish",
+   "is_target_language": true,
+   "fluency": 10,
+   "excitement": 7,
+   "accent_native": 10,
+   "note": "Fluent Turkish sports commentary dubbing with natural delivery and appropriate excitement."
+  }
+ },
+ "vi-VN": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 23.4,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": " Vậy là anh ấy chỉ có mỗi chiếc găng tay trái thôi.Bóng cuối cùng nào! Đánh về phía offside, họ đang chạy! Liệu có kịp không? Liệu có run out không?Liệu có ra ngoài hay vẫn trong sân đây?Chúng ta chờ xem lại băng hình, John thi đấu quá tốt và anh ấy tin rằng đã kết thúc được đối thủ.Anh ấy không ném",
+  "judge": {
+   "spoken_language": "Vietnamese",
+   "is_target_language": true,
+   "fluency": 10,
+   "excitement": 7,
+   "accent_native": 10,
+   "note": "Native Vietnamese commentary style dubbing with dynamic pacing and clear articulation."
+  }
+ },
+ "ru-RU": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 18.0,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": "Итак, на нем только левая перчатка.Ух, поехали, последний мяч! Через офф-сайд, бегут! Ранаут может быть! Успеет ли?Снаружи или в поле?Идем наверх! Отличная работа от Джонни, он уверен, что взял его!О'кей, Роб.",
+  "judge": {
+   "spoken_language": "Russian",
+   "is_target_language": true,
+   "fluency": 10,
+   "excitement": 7,
+   "accent_native": 10,
+   "note": "Native Russian sports voiceover/commentary delivered with energetic and lively tone."
+  }
+ },
+ "nl-NL": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 14.5,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": "Hij heeft dus alleen nog de linkerhandschoen.Daar gaan we, de laatste bal! Door de off-side, ze rennen! Het kan een run-out zijn! Is hij uit?We gaan naar boven. Goed werk van Johnny. Hij denkt dat hij hem heeft!Oké Rob.",
+  "judge": {
+   "spoken_language": "Dutch",
+   "is_target_language": true,
+   "fluency": 10,
+   "excitement": 7,
+   "accent_native": 10,
+   "note": "Native Dutch sports commentary with natural excitement and clear pronunciation."
+  }
+ },
+ "pl-PL": {
+  "phrases": 5,
+  "voiced": 5,
+  "out_s": 23.4,
+  "src_s": 17.2,
+  "script_share": null,
+  "text": " A więc ma tylko lewą rękawicę.No i jedziemy, ostatnia piłka. Poszło przez offside, biegną. Może być run out! Będzie wyautowany?A w aucie? Czy jednak w korcie?Idziemy na górę! Świetna robota Johnny'ego, myśli, że go ma!Nie rzucił w ogóle, choć był pewien, że zdąży na czas. Dobra, Rob.",
+  "judge": {
+   "spoken_language": "Polish",
+   "is_target_language": true,
+   "fluency": 10,
+   "excitement": 7,
+   "accent_native": 10,
+   "note": "Fluent native Polish sports commentary with good energy and animated delivery."
+  }
+ }
+}

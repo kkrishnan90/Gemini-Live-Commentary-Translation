@@ -1,0 +1,30 @@
+# secrets — never commit
+credentials.json
+*.key.json
+*-key.json
+service-account*.json
+.env
+.env.*
+!.env.example
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# node
+node_modules/
+dist/
+
+# media cache
+cache/
+*.pcm
+
+# tool caches
+.pytest_cache/
+.ruff_cache/
+
+# local output
+reports/
+*.log
+.DS_Store

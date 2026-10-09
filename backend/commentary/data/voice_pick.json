@@ -1,0 +1,13 @@
+{
+  "voice": "Orus",
+  "decided": "2026-10-08",
+  "method": "16 male core voices -> round 1 (ICC cricket climax, English source -> hi/ta/te) -> top 5 -> round 2 (Spanish radio goal call -> hi/ml/gu; Peter Drury English -> ta/te/kn). 27 finalist runs through the production relay. Scored on log-mel + pitch features (F0 range, presence 2-5 kHz, spectral flux, loudness dynamics, excitement tracking vs source pitch), pacing, script fidelity, synthesized-roar share, and a gemini-3.8-flash listening judge.",
+  "ranking": [
+    {"voice": "Orus", "score": 0.554, "f0_hz_excited": 203, "f0_range_st": 21.2, "pace": 1.07, "roar_share": 0.003},
+    {"voice": "Schedar", "score": 0.519, "f0_hz_excited": 210, "f0_range_st": 15.7, "pace": 1.04, "roar_share": 0.009},
+    {"voice": "Umbriel", "score": 0.507, "f0_hz_excited": 193, "f0_range_st": 21.0, "pace": 1.08, "roar_share": 0.038},
+    {"voice": "Sadachbia", "score": 0.491, "f0_hz_excited": 205, "f0_range_st": 21.3, "pace": 1.07, "roar_share": 0.0},
+    {"voice": "Rasalgethi", "score": 0.428, "f0_hz_excited": 239, "f0_range_st": 19.6, "pace": 1.12, "roar_share": 0.024}
+  ],
+  "why": "Most consistent excitement across sports, source languages and 9 Indic targets (judge 9-10 on the Spanish goal call in hi/ml/gu); wide pitch excursions with curved, moving harmonics rather than flat holds; male register; near-zero synthesized crowd noise; pacing close to the source."
+}

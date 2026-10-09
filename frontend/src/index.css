@@ -1,0 +1,36 @@
+:root {
+  --pitch: #0c2620;
+  --turf: #11342b;
+  --turf-raised: #184437;
+  --chalk: #eef1e6;
+  --chalk-dim: #a7b7ab;
+  --line: rgba(238, 241, 230, 0.13);
+  --amber: #f2b33d;
+  --tally: #e5322d;
+  --b0: #f2b33d;
+  --b1: #7fc8e8;
+  --b2: #f07a5a;
+  --b3: #9bdcae;
+  --b4: #c3a6f2;
+  --b5: #f2a6c8;
+  --display: "Big Shoulders Display", "Arial Narrow", sans-serif;
+  --body: "Atkinson Hyperlegible", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, monospace;
+  --lane-label: 92px;
+  color-scheme: dark;
+}
+*, *::before, *::after { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  font-family: var(--body);
+  color: var(--chalk);
+  background-color: var(--pitch);
+  /* mowing stripes */
+  background-image: repeating-linear-gradient(90deg, rgba(255,255,255,0.018) 0 120px, transparent 120px 240px);
+  min-height: 100vh;
+  font-size: 15px;
+  line-height: 1.45;
+}
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; } }

@@ -1,0 +1,29 @@
+[project]
+name = "commentary-live"
+version = "0.1.0"
+description = "Realtime expressive sports commentary translation on Gemini 3.8 Live (relay interpreter)"
+requires-python = ">=3.12"
+dependencies = [
+  "google-genai",
+  "fastapi",
+  "uvicorn[standard]",
+  "python-dotenv",
+  "numpy",
+  "soundfile",
+  "yt-dlp[default]",  # [default] bundles yt-dlp-ejs, the YouTube JS-challenge solver
+  "python-multipart",
+  "onnxruntime",
+  "google-cloud-storage",
+]
+
+[dependency-groups]
+dev = [
+    "pytest",
+    "pytest-asyncio",
+    "ruff",
+]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["backend/tests"]
+pythonpath = ["backend"]

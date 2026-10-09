@@ -1,0 +1,14 @@
+# Uploaded to Cloud Build. Secrets and local state never leave this machine.
+credentials.json
+*.key.json
+.env
+.env.*
+.git/
+.venv/
+cache/
+**/node_modules/
+frontend/dist/
+**/__pycache__/
+.pytest_cache/
+.ruff_cache/
+tools/

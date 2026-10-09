@@ -1,0 +1,26 @@
+"""Curated pre-recorded commentaries (public YouTube uploads, embeddable)."""
+
+LIBRARY = [
+    {"id": "ha6fDklARyc", "title": "Final over thriller: India v Bangladesh, T20 World Cup 2016", "sport": "cricket",
+     "source_lang": "English", "channel": "ICC", "duration": 188},
+    {"id": "Ar7AkowneK0", "title": "Jatin Sapru's electrifying last-over call, India v South Africa", "sport": "cricket",
+     "source_lang": "Hindi", "channel": "Gyani Asad", "duration": 35},
+    {"id": "TDs-mOucJZc", "title": "Peter Drury on Messi & Mbappé, World Cup 2022 final", "sport": "football",
+     "source_lang": "English", "channel": "Football Studio", "duration": 41},
+    {"id": "xWD6e-P9-yI", "title": "Peter Drury's best screamer World Cup goals", "sport": "football",
+     "source_lang": "English", "channel": "Peter Poetry", "duration": 421},
+    {"id": "ojvz9Ko_FMQ", "title": "\"Yo vi jugar a Messi\" — Spanish radio goal call", "sport": "football",
+     "source_lang": "Spanish", "channel": "Johann Dabin", "duration": 96},
+    {"id": "EPaxg2sMuBQ", "title": "Messi v Getafe, Cadena SER radio call", "sport": "football",
+     "source_lang": "Spanish", "channel": "Paula Juan", "duration": 113},
+    {"id": "ueooPUY3nuw", "title": "Stéphane Guy calling Marseille goals", "sport": "football",
+     "source_lang": "French", "channel": "TopLu28", "duration": 595},
+    {"id": "xBlqZNTeJuQ", "title": "Aslam Inamdar's Super 10, Pro Kabaddi Maharashtra derby", "sport": "kabaddi",
+     "source_lang": "Hindi", "channel": "Star Sports", "duration": 645},
+    {"id": "sOOOcfDHWd4", "title": "Match point: Barty becomes Wimbledon champion", "sport": "tennis",
+     "source_lang": "English", "channel": "Wide World of Sports", "duration": 180},
+    {"id": "WBiQulsQsqg", "title": "Hamilton wins the British GP — last-lap commentary", "sport": "f1",
+     "source_lang": "English", "channel": "Little Repairman", "duration": 55},
+    {"id": "75iExVNvrWw", "title": "Kawhi Leonard wins the series at the buzzer", "sport": "basketball",
+     "source_lang": "English", "channel": "NBA", "duration": 188},
+]
