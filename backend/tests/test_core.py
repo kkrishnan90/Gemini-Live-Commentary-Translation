@@ -5,7 +5,7 @@ import pytest
 
 from commentary.audio import StreamingWSOLA, roar_gate, time_compress
 from commentary.config import LANGUAGES, OUT_RATE
-from commentary.prompts import build_system_instruction
+from commentary.prompts import STYLES, build_system_instruction
 from commentary.relay import is_revoiced, repeat_score
 from commentary.timeline import DubTimeline, LiveTimeline
 
@@ -157,6 +157,11 @@ def test_prompt_names_target_language(lang):
     si = build_system_instruction(lang, "cricket")
     name = next(l.name for l in LANGUAGES if l.code == lang)
     assert f"RESPOND IN {name.upper()}" in si and "cricket" in si
+    assert "Accent: speak with a native" in si and f"colloquial {name}" in si
+
+
+def test_every_indic_language_has_a_regional_style():
+    assert {l.code for l in LANGUAGES if l.group == "indic"} <= STYLES.keys()
 
 
 @pytest.mark.skipif(not STIMULUS.exists(), reason="broadcast stimulus not cached")
