@@ -30,6 +30,7 @@ that delivery, not just the words.
 - [Development and tests](#development-and-tests)
 - [Measured results](#measured-results)
 - [Known limitations](#known-limitations)
+- [License](#license)
 
 ---
 
@@ -391,3 +392,9 @@ uv run ruff check backend tools    # lint
 - **YouTube:** downloading audio with `yt-dlp` may conflict with YouTube's Terms of Service. It is meant for
   evaluation only. From cloud IPs, arbitrary links work only when YouTube does not bot-check the request.
 - **Library clips** are public YouTube uploads embedded through the IFrame player. Rights remain with their owners.
+
+---
+
+## License
+
+Licensed under the [Apache License 2.0](LICENSE).

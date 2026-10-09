@@ -3,6 +3,7 @@ name = "commentary-live"
 version = "0.1.0"
 description = "Realtime expressive sports commentary translation on Gemini 3.8 Live (relay interpreter)"
 requires-python = ">=3.12"
+license = "Apache-2.0"
 dependencies = [
   "google-genai",
   "fastapi",
